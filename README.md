@@ -1,6 +1,6 @@
 # deeployer.com.br
 
-Redirecionamento para o site [https://deeployer.com](https://deeployer.com).
+:earth_americas: Redirecionamento para o site [https://deeployer.com](https://deeployer.com).
 
 :speech_balloon: Fale conosco por aqui também: 
 
