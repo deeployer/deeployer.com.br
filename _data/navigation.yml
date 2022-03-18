@@ -10,7 +10,7 @@ main:
     url: /about/
   - title: "contato"
     url: /contact/
-   - title: "en-us"
+  - title: "en-us"
     url: https://deeployer.com
 
 # sidebar menu links
