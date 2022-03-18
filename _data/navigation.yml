@@ -1,0 +1,41 @@
+# main links links
+main:
+  - title: "home"
+    url: https://deeployer.com.br/
+  - title: "blog"
+    url: /year-archive/
+  - title: "portifólio"
+    url: /portfolio/
+  - title: "sobre"
+    url: /about/
+  - title: "contato"
+    url: /contact/
+
+
+# sidebar menu links
+about:
+  - title: O que tem aqui?
+    children:
+      - title: "nossa visão"
+        url: "https://deeployer.com/about/#our-vision"
+      - title: "nossos valores"
+        url: "https://deeployer.com/about/#our-values"
+      - title: "nossa missão"
+        url: "https://deeployer.com/about/#our-mission"
+      - title: "código de conduta"
+        url: "https://deeployer.com/about/#code-of-conduct"
+
+# sidebar menu links
+posts:
+  - title: Veja os posts
+    children:
+      - title: "Por ano"
+        url: "/year-archive/"
+      - title: "Por categoria"
+        url: "/categories/"
+      - title: "Por tags"
+        url: "/tags/"
+  - title: Tópicos
+    children:
+      - title: "Artigos"
+        url: "/categories/#data-science"
