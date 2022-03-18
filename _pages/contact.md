@@ -6,6 +6,6 @@ header:
 permalink: /contact/
 ---
 
-# how can we help you?
+# como podemos ajudar você?
 
-Tell us by sending an e-mail to <a href="mailto:contato@deeployer.com">contato@deeployer.com</a>.
+Diga-nos através do e-mail <a href="mailto:contato@deeployer.com">contato@deeployer.com</a>.
