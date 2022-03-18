@@ -1,43 +1,43 @@
 ---
 layout: single
 author_profile: false
-title: "About us"
+title: "Sobre a Deeployer"
 header:
   image: "/assets/images/deeployer-website-headers-about.png"
 permalink: /about/
 sidebar:
   nav: "about"
 ---
-# our vision
+# nossa visão
 
-To make data value human potential to help build a fair and equitable society. 
+Fazer com que os dados valorizem o potencial humano, ajudando a construir uma sociedade mais justa e igualitária.
 
-# our values
+# nossos valores
 
-Enthusiasm, Respect, Integrity and Professionalism.
+Entusiasmo, Respeito, Integridade and Profissionalismo.
 
-# our mission
+# nossa missão
 
-Deeployer is a socially-responsible company, and we are committed to making a substantial contribution towards achieving valuable data science deliverables to our clients. We focus on long-term relationship by having partners more than customers and helping to build an ethical data community.
+A Deeployer é uma empresa socialmente responsável, e nós estamos comprometidos a fazer uma contribuição substantial em direção a conquista de entregáveis de ciência de dados com alto valor para nossos clientes. Focamos em relacionamentos de longo prazo onde valorizamos a construção de parceiros, mais do que de clientes, ajudando desta forma a desenvolver uma comunidade de dados mais ética.
 
-# code of conduct
+# código de conduta
 
-Deeployer is a company dedicated to providing a harassment-free working environment for all, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of any form. All communication should be appropriate for a professional audience including people of many different backgrounds.
+A Deeployer é uma empresa dedicada a promover um ambiente de trabalho livre de assédios para todos, independentemente do gênero, orientação sexual, deficiência, aparência física, tamanho corporal, raça ou religião. Não toleramos assédios de qualquer forma. Toda a comunicação deve ser apropriada para um público profissional, incluindo pessoas de origens diversas.
 
-Sexual language and imagery is not appropriate for any communication and/or talks. Be kind and do not insult or put down others. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for us. Staff violating these rules should be reported to an appropriate line manager.
+Linguagem e imagens sexuais não são apropriadas para qualquer comunicação e/ou reuniões. Seja gentil e não insulte ou rebaixe as pessoas. Comporte-se profissionalmente. Lembre-se de que o assédio e as piadas sexistas, racistas ou excludentes não são apropriados para nós. Os funcionários que violam essas regras devem ser relatados a um gerente de linha apropriado.
 
-These are the values to which people should aspire:
+Estes são os valores aos quais as pessoas devem aspirar:
 
-- **Be friendly and welcoming**.
-- **Be patient**, remember that people have varying communication styles and that not everyone is using their native language. (Meaning and tone can be lost in translation.)
-- **Be thoughtful**, productive communication requires effort. Think about how your words will be interpreted. Remember that sometimes it is best to refrain entirely from commenting.
-- **Be respectful**, in particular, respect differences of opinion.
-- **Be charitable**, interpret the arguments of others in good faith, do not seek to disagree. When we do disagree, try to understand why.
-- **Avoid destructive behavior**
-    - Derailing: stay on topic; if you want to talk about something else, start a new conversation. 
-    - Unconstructive criticism: don't merely decry the current state of affairs; offer—or at least solicit—suggestions as to how things may be improved.
-    - Snarking (pithy, unproductive, sniping comments)
-    - Discussing potentially offensive or sensitive issues; this all too often leads to unnecessary conflict.
-    - Microaggressions: brief and commonplace verbal, behavioral and environmental indignities that communicate hostile, derogatory or negative slights and insults to a person or group.
+- **Seja amigável e acolhedor**.
+- **Seja paciente**, lembre-se de que as pessoas têm estilos de comunicação variados e que nem todos estão usando sua língua nativa. (O significado e o tom podem ser perdidos na tradução.)
+- **Seja atencioso**, uma comunicação produtiva requer esforço. Pense em como suas palavras serão interpretadas. Lembre-se de que às vezes é melhor abster-se inteiramente de comentar.
+- **Seja respeitoso**, em particular, respeite as diferenças de opinião.
+- **Seja caridoso**, interprete os argumentos dos outros de boa fé, não procure discordar. Quando discordamos, tente entender o porquê.
+- **Evite comportamento destrutivo**
+    - Desvios: fique no tópico; se você quiser falar sobre outra coisa, comece uma nova conversa.
+    - Críticas não-construtivas: não se limite a condenar o estado atual das coisas; oferecer - ou pelo menos solicitar - sugestões de como as coisas podem ser melhoradas.
+    - Fazer comentários não concisos, improdutivos, falaciosos.
+    - Discutir questões potencialmente ofensivas ou sensíveis; isso muitas vezes leva a conflitos desnecessários.
+    - Microagressões: indignidades verbais, comportamentais e ambientais breves e corriqueiras que comunicam ofensas e insultos hostis, depreciativos ou negativos a uma pessoa ou grupo.
 
-People are complicated. You should expect to be misunderstood and to misunderstand others; when this inevitably occurs, resist the urge to be defensive or assign blame. Try not to take offense where no offense was intended. Give people the benefit of the doubt. Even if the intent was to provoke, do not rise to it. It is the responsibility of all parties to de-escalate conflict when it arises.
+Lembre-se, as pessoas são complicadas. Você deve esperar ser mal compreendido e mal compreendido pelos outros; quando isso ocorrer inevitavelmente, resista ao impulso de ficar na defensiva ou atribuir a culpa. Tente não se ofender onde não houve intenção de ofender. Dê às pessoas o benefício da dúvida. Mesmo que a intenção fosse provocar, não aceite. É responsabilidade de todas as partes diminuir o conflito quando ele surgir.
