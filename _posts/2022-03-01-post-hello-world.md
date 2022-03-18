@@ -1,5 +1,5 @@
 ---
-title: "Hello, World!"
+title: "Olá, Mundo!"
 author: Deeployer
 header:
   image: "/assets/images/deeployer-website-headers-typewritter.png"
@@ -11,4 +11,4 @@ tags:
   - pt-br
 ---
 
-Hello, World! We are Deeployer and we are looking foward to deeploy cool stuff for you!
+Olá, Mundo! Nós somos a Deeployer e estamos ansiosos para entregar coisas bem legais para você!
