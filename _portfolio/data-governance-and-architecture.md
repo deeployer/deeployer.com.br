@@ -1,5 +1,5 @@
 ---
-title: "Data Architecture/Governance" 
+title: "Architecture / Governance" 
 excerpt: "Definição da base dos padrões de Arquitetura de Dados e disciplina de Governança de Dados para que a empresa pudesse implementar todos os projetos e assuntos relacionados a Data Science."
 header:
   image: "/assets/images/deeployer-website-headers-portfolio.png"
