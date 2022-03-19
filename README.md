@@ -1,6 +1,6 @@
 # deeployer.com.br
 
-:earth_americas: Visite nosso site em [https://deeployer.com.br](https://deeployer.com.br).
+:v: Visite nosso site em [https://deeployer.com.br](https://deeployer.com.br).
 
 :speech_balloon: Fale conosco por aqui também: 
 
