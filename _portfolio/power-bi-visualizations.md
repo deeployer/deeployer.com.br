@@ -1,18 +1,18 @@
 ---
-title: "Power BI visualizations"
-excerpt: "Creating KPIs and reports to understand how the users consume the customers's products, tracking the behaviour as well as the impact on the users goals."
+title: "Vizualizações em Power BI"
+excerpt: "Criação de KPIs e relatórios para entender como os usuários utilizam os produtos do cliente, rastreando o comportamento, bem como o impacto nos objetivos dos usuários."
 header:
   image: "/assets/images/deeployer-website-headers-portfolio.png"
   teaser: "/assets/images/deeployer-website-teaser-power-bi-01.png"
 sidebar:
-  - title: "client area"
-    text: "E-learning / Medical Residency"
-  - title: "objectives of this project"
-    text: "Creating KPIs and reports to understand how the users consume the customers's products, tracking the behaviour as well as the impact on the users goals. Additionally, to understand how to stimulate learning and improve the user experience on their journey."
-  - title: "technologies involved"
-    text: "Power BI, AWS, Databricks, PostgreSQL and Python"
-  - title: "what was deeployed?"
-    text: "A set of dashboards with several visualizations covering different point of views of the data capable of achieving the client's objectives."
+  - title: "área do cliente"
+    text: "E-learning / Residência Médica"
+  - title: "objetivos do projeto"
+    text: "Criação de KPIs e relatórios para entender como os usuários utilizam os produtos do cliente, rastreando o comportamento, bem como o impacto nos objetivos dos usuários. Além disso, entender como estimular o aprendizado e melhorar a experiência do usuário em sua jornada. "
+  - title: "tecnologias envolvidas"
+    text: "Power BI, AWS, Databricks, PostgreSQL e Python"
+  - title: "o que foi "deeployed"?"
+    text: "Um conjunto de dashboards com várias visualizações abrangendo diferentes pontos de vista dos dados capazes de atingir os objetivos do cliente. "
 gallery:
   - url: "/assets/images/deeployer-website-portfolio-power-bi-01.png"
     image_path: "/assets/images/deeployer-website-teaser-power-bi-01.png"
@@ -25,4 +25,4 @@ gallery:
     alt: "Visualization sample 3"
 ---
 
-{% include gallery caption="A few screenshots to go along with this case study." %}
+{% include gallery caption="Alguns screenshots para apresentar este estudo de caso." %}

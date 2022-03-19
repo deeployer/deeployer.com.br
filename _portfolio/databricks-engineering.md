@@ -1,18 +1,18 @@
 ---
 title: "Databricks Engineering"
-excerpt: "Developing all the engineering foundation to build the Data Lake ecosystem needed to work with the data sources and visualizations."
+excerpt: "Desenvolvimento de toda a base de engenharia para construir o ecossistema de Data Lake necessário para trabalhar com as fontes de dados e visualizações.
 header:
   image: "/assets/images/deeployer-website-headers-portfolio.png"
   teaser: "/assets/images/deeployer-website-teaser-databricks-01.png"
 sidebar:
-  - title: "client area"
+  - title: "área do cliente"
     text: "E-learning / Medical Residency"
-  - title: "objectives of this project"
-    text: "Developing all the engineering foundation to build the Data Lake ecosystem needed to work with the data sources and visualizations. In addition, configuring all the clusters following best practices to ensure the best performance and availability."
-  - title: "technologies involved"
-    text: "AWS, Databricks, PostgreSQL and Python"
-  - title: "what was deeployed?"
-    text: "All the infrastructure including notebooks, storage, jobs and clusters configuration to build the Data Lake ecosystem."
+  - title: "objetivos do projeto"
+    text: "Desenvolvimento de toda a base de engenharia para construir o ecossistema de Data Lake necessário para trabalhar com as fontes de dados e visualizações. Além disso, configuração de todos os clusters seguindo as melhores práticas para garantir o melhor desempenho e disponibilidade."
+  - title: "tecnologias envolvidas"
+    text: "AWS, Databricks, PostgreSQL e Python"
+  - title: "o que foi "deeployed"?"
+    text: "Toda a infraestrutura, incluindo notebooks, armazenamento, trabalhos e configuração de clusters para construir o ecossistema Data Lake."
 gallery:
   - url: "/assets/images/deeployer-website-portfolio-databricks-01.png"
     image_path: "/assets/images/deeployer-website-teaser-databricks-01.png"
@@ -25,4 +25,4 @@ gallery:
     alt: "Visualization sample 3"
 ---
 
-{% include gallery caption="A few screenshots to go along with this case study." %}
+{% include gallery caption="Alguns screenshots para apresentar este estudo de caso." %}
