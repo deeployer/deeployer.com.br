@@ -1,6 +1,6 @@
 ---
 title: "Databricks Engineering"
-excerpt: "Desenvolvimento de toda a base de engenharia para construir o ecossistema de Data Lake necessário para trabalhar com as fontes de dados e visualizações.
+excerpt: "Desenvolvimento de toda a base de engenharia para construir o ecossistema de Data Lake necessário para trabalhar com as fontes de dados e visualizações."
 header:
   image: "/assets/images/deeployer-website-headers-portfolio.png"
   teaser: "/assets/images/deeployer-website-teaser-databricks-01.png"
