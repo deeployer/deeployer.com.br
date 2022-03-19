@@ -11,7 +11,7 @@ sidebar:
     text: "Desenvolvimento de toda a base de engenharia para construir o ecossistema de Data Lake necessário para trabalhar com as fontes de dados e visualizações. Além disso, configuração de todos os clusters seguindo as melhores práticas para garantir o melhor desempenho e disponibilidade."
   - title: "tecnologias envolvidas"
     text: "AWS, Databricks, PostgreSQL e Python"
-  - title: "o que foi deeployed?"
+  - title: "o que foi 'deeployed'?"
     text: "Toda a infraestrutura, incluindo notebooks, armazenamento, trabalhos e configuração de clusters para construir o ecossistema Data Lake."
 gallery:
   - url: "/assets/images/deeployer-website-portfolio-databricks-01.png"

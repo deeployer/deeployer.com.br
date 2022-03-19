@@ -11,7 +11,7 @@ sidebar:
     text: "Criação de KPIs e relatórios para entender como os usuários utilizam os produtos do cliente, rastreando o comportamento, bem como o impacto nos objetivos dos usuários. Além disso, entender como estimular o aprendizado e melhorar a experiência do usuário em sua jornada. "
   - title: "tecnologias envolvidas"
     text: "Power BI, AWS, Databricks, PostgreSQL e Python"
-  - title: "o que foi "deeployed"?"
+  - title: "o que foi 'deeployed'?"
     text: "Um conjunto de dashboards com várias visualizações abrangendo diferentes pontos de vista dos dados capazes de atingir os objetivos do cliente. "
 gallery:
   - url: "/assets/images/deeployer-website-portfolio-power-bi-01.png"
