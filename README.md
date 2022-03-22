@@ -4,5 +4,7 @@
 
 :speech_balloon: Fale conosco por aqui também: 
 
+:brazil:
+
 - [Twitter](https://twitter.com/deeployer) 
 - [Instagram](https://www.instagram.com/deeployer/)
