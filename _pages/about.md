@@ -10,7 +10,7 @@ sidebar:
 ---
 # nossa visão
 
-Fazer com que os dados valorizem o potencial humano, ajudando a construir uma sociedade mais justa e igualitária.
+Aumentar o potencial humano através de dados, visando uma sociedade justa e igualitária para todos. 
 
 # nossos valores
 
@@ -18,7 +18,7 @@ Entusiasmo, Respeito, Integridade and Profissionalismo.
 
 # nossa missão
 
-A Deeployer é uma empresa socialmente responsável, e nós estamos comprometidos a fazer uma contribuição substantial em direção a conquista de entregáveis de ciência de dados com alto valor para nossos clientes. Focamos em relacionamentos de longo prazo onde valorizamos a construção de parceiros, mais do que de clientes, ajudando desta forma a desenvolver uma comunidade de dados mais ética.
+A Deeployer é uma empresa socialmente responsável e estamos comprometidos a fazer uma contribuição substancial através de entregáveis de ciência de dados com alto valor para nossos clientes e a sociedade. Focamos em relacionamentos de longo prazo, valorizando a construção de parceiros mais do que de clientes, ajudando a desenvolver uma comunidade de dados mais ética, democrática e acessível.
 
 # código de conduta
 
