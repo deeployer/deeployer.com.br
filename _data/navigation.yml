@@ -18,13 +18,13 @@ about:
   - title: O que tem aqui?
     children:
       - title: "nossa visão"
-        url: "https://deeployer.com/about/#our-vision"
+        url: "https://deeployer.com.br/about/#our-vision"
       - title: "nossos valores"
-        url: "https://deeployer.com/about/#our-values"
+        url: "https://deeployer.com.br/about/#our-values"
       - title: "nossa missão"
-        url: "https://deeployer.com/about/#our-mission"
+        url: "https://deeployer.com.br/about/#our-mission"
       - title: "código de conduta"
-        url: "https://deeployer.com/about/#code-of-conduct"
+        url: "https://deeployer.com.br/about/#code-of-conduct"
 
 # sidebar menu links
 posts:
