@@ -11,7 +11,7 @@ tags:
   - pt-br
 ---
 
-Em seu conto [The Library of Babel](https://en.wikipedia.org/wiki/The_Library_of_Babel), do celebrado escritor argentino [Jorge Luis Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges), somos convidados a adentrar uma misteriosa biblioteca, onde seu real tamanho é desconhecido. A biblioteca estende-se por inúmeras salas hexagonais, com inúmeros andares, contendo estantes de livros sem uma ordem aparentemente justificável. Os livros tratam dos mais diversos assuntos, escritos em diversos idiomas e em alguns casos até ininteligíveis. No conto, os habitantes dessa biblioteca procuram um significado para a existência da biblioteca, do propósito de suas ordenação de livros e de seu conteúdo muitas vezes indecifrável.
+Em seu conto [The Library of Babel](https://en.wikipedia.org/wiki/The_Library_of_Babel), do celebrado escritor argentino [Jorge Luis Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges), somos convidados a adentrar uma misteriosa biblioteca, onde seu real tamanho é desconhecido. A biblioteca estende-se por inúmeras salas hexagonais, com inúmeros andares, contendo estantes de livros sem uma ordem aparentemente justificável. Os livros tratam dos mais diversos assuntos, escritos em diversos idiomas e em alguns casos até ininteligíveis. No conto, os habitantes dessa biblioteca procuram um significado para a existência da biblioteca, do propósito de sua ordenação de livros e de seu conteúdo muitas vezes indecifrável.
 
 > "A Biblioteca é uma esfera cujo verdadeiro centro é qualquer hexágono e cuja circunferência é inacessível." _-- Jorge Luis Borges_
 
