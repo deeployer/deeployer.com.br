@@ -15,7 +15,7 @@ Em seu conto [The Library of Babel](https://en.wikipedia.org/wiki/The_Library_of
 
 > "A Biblioteca é uma esfera cujo verdadeiro centro é qualquer hexágono e cuja circunferência é inacessível." _-- Jorge Luis Borges_
 
-Uma curiosidade, o [logo hexagonal da Deeployer](https://deeployer.com.br/assets/images/Deeployer-Logo-Hexagon-Avatar.png) é uma referência direta ao conto de Borges e sua biblioteca com um número indefinido (talvez infinito) de galerias hexagonais.
+Uma curiosidade, o [logo hexagonal da Deeployer](https://deeployer.com.br/assets/images/Deeployer-Logo-Hexagon-Avatar.png) tem inspiração direta, dentre outras, do conto de Borges e sua biblioteca com um número indefinido (talvez infinito) de galerias hexagonais.
 
 A [Deeployer](mailto:contato@deeployer.com) é uma empresa como um time multidisciplinar de cientistas de dados preparada para atender a todas as suas necessidades de Data Science. 
 
