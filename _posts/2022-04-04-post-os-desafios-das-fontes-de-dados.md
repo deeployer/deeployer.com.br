@@ -11,7 +11,9 @@ tags:
   - pt-br
 ---
 
-To-do
+Em seu conto [The Library of Babel](https://en.wikipedia.org/wiki/The_Library_of_Babel), do celebrado escritor argentino [Jorge Luis Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges), somos convidados a adentrar uma magnífica bibliotea, onde seu real tamanho é desconhecido.
+
+Uma curiosidade, o [logo hexagonal da Deeployer](https://deeployer.com.br/assets/images/Deeployer-Logo-Hexagon-Avatar.png) é uma referência direta ao conto de Borges e sua biblioteca com um número indefinido (talvez infinito) de galerias hexagonais.
 
 A [Deeployer](mailto:contato@deeployer.com) é uma empresa como um time multidisciplinar de cientistas de dados preparada para atender a todas as suas necessidades de Data Science. 
 
