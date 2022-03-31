@@ -35,6 +35,12 @@ Grande parte do trabalho do cientista de dados está justamente nesta fase de ob
 
 > A Arquitetura, como caminho para materialização de uma solução, sempre existirá. Mesmo que ninguém tenha efetivamente pensado nela, ao final, toda solução tem uma arquitetura. Portanto, a vida se torna mais simples (e mais barata) quando temos alguém **desenhando e conscientemente definindo a Arquitetura**.
 
+# Lidando com a entropia das fontes de dados 
+
+Felizmente, para cada obstáculo apresentado anteriormente, existem uma série de possibilidades consistentes para permitir que o valor da Data Science seja atingido. 
+
+Para isso, a equipe responsável por implementar projetos de ciência de dados devem contar com profissionais com hard-skills de alta amplitude, dado a complexidade das tarefas que se apresentarão para a equipe. Além disso, não é exagero afirmar que uma infraestrutura flexível e poderosa deve estar à disposição da equipe, pois inúmeras soluções deverão ser destacadas durante o ciclo de vida de desenvolvimento, inclusive, para adaptar-se às mudanças das fontes externas de dados.
+
 A [Deeployer](mailto:contato@deeployer.com) é uma empresa como um time multidisciplinar de cientistas de dados preparada para atender a todas as suas necessidades de Data Science. 
 
 Entre em [contato](https://deeployer.com/contact/) conosco e nos diga como podemos ajudar a sua empresa a crescer.
