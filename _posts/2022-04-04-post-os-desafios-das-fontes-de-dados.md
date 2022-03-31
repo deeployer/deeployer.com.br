@@ -43,4 +43,3 @@ Até o próximo post!
 
 ## Referências utilizadas neste post:
 - **To-do**, to-do.
-- Artigo [To-do](#), to-do, por [to-do](#). 
