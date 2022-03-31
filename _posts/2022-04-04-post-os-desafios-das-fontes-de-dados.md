@@ -48,4 +48,5 @@ Entre em [contato](https://deeployer.com/contact/) conosco e nos diga como podem
 Até o próximo post!
 
 ## Referências utilizadas neste post:
-- **To-do**, to-do.
+- **Jorge Luis Borges**, escritor, poeta e crítico literário argentino, tratou em suas obras sobre o "caos que governa o mundo e o caráter de irrealidade em todas a literatura". Escreveu o conto [The Library of Babel](https://en.wikipedia.org/wiki/The_Library_of_Babel) em 1944, no livro [Ficciones](https://pt.wikipedia.org/wiki/Ficciones), considerada uma de suas melhores obras. A Biblioteca de Babel pode ser entendida como uma metáfora para a Sociedade da Informação.
+- **Library of Babel**, [navegue pelo site](https://libraryofbabel.info/) criado por [Jonathan Basile](https://libraryofbabel.info/About.html) para representar a experiência da Biblioteca de Babel, de Jorge Luis Borges.
