@@ -17,7 +17,7 @@ Em seu conto [The Library of Babel](https://en.wikipedia.org/wiki/The_Library_of
 
 Uma curiosidade, o [logo hexagonal da Deeployer](https://deeployer.com.br/assets/images/Deeployer-Logo-Hexagon-Avatar.png) tem inspiração direta, dentre outras, do conto de Borges e sua biblioteca com um número indefinido (talvez infinito) de galerias hexagonais.
 
-# Quais desafios as fontes de dados podem apresentar para cientistas de dados?
+# Desafios que as fontes de dados apresentam para cientistas de dados e empresas
 
 A Biblioteca de Babel de Jorge Luis Borges sintetiza a ideia de uma fonte de dados universal, onde um vasto conhecimento – e potencialmente todo o conhecimento existente – está armazenado nela. Contudo, é muito difícil para seus usuários localizar onde um determinado conteúdo está disponibilizado, e essa angústia é brilhantemente explorada pelo escritor.
 
