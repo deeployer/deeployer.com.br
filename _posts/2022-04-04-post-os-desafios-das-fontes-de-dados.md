@@ -41,7 +41,7 @@ Felizmente, para cada obstáculo apresentado anteriormente, existem uma série d
 
 Para isso, a equipe responsável por implementar projetos de ciência de dados devem contar com profissionais com hard-skills de alta amplitude, dado a complexidade das tarefas que se apresentarão para a equipe. Além disso, não é exagero afirmar que uma infraestrutura flexível e poderosa deve estar à disposição da equipe, pois inúmeras soluções deverão ser destacadas durante o ciclo de vida de desenvolvimento, inclusive, para adaptar-se às mudanças das fontes externas de dados.
 
-A [Deeployer](mailto:contato@deeployer.com) é uma empresa como um time multidisciplinar de cientistas de dados preparada para atender a todas as suas necessidades de Data Science. 
+A [Deeployer](mailto:contato@deeployer.com) é uma empresa com um time multidisciplinar de cientistas de dados preparada para atender a todas as suas necessidades de Data Science. 
 
 Entre em [contato](https://deeployer.com/contact/) conosco e nos diga como podemos ajudar a sua empresa a crescer.
 
