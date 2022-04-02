@@ -21,7 +21,7 @@ Uma curiosidade, o [logo hexagonal da Deeployer](https://deeployer.com.br/assets
 
 A Biblioteca de Babel de Jorge Luis Borges sintetiza a ideia de uma fonte de dados universal, onde um vasto conhecimento – e potencialmente todo o conhecimento existente – está armazenado nela. Contudo, é muito difícil para seus usuários localizar onde um determinado conteúdo está disponibilizado, e essa angústia é brilhantemente explorada pelo escritor.
 
-Seguindo na jornada de responder a questão proposta, vamos trazer para o contexto de Data Science a alegoria escrita por Borges em seu conto. Para isso, tomando a liberdade de fazer um paralelo da Biblioteca de Borges com a Internet, e esta como uma gigantesca fonte de dados universal moderna, é seguro afirmar que os desafios são ainda maiores que os enfrentados pelos usuários da Biblioteca. 
+Seguindo na jornada de responder a questão proposta, vamos trazer para o contexto de Data Science a alegoria escrita por Borges em seu conto. Para isso, tomando a liberdade de fazer um paralelo da Biblioteca de Borges com a Internet, e esta com uma gigantesca fonte de dados universal moderna. Neste cenário, é seguro afirmar que os desafios são ainda maiores que os enfrentados pelos usuários da Biblioteca. 
 Apenas para citar alguns desafios mais relevantes e facilmente perceptíveis:
 
 - **Multiplicidade de métodos para prover dados**: Uma fonte de dados pode ser disponibilizada através de um download em um site, um servidor (S)FTP, uma REST API, Web Services SOAP, através de um protocolo próprio, dentre outras possibilidades. Cada uma destas opções requer um conjunto específico de mecanismos de comunicação e obtenção dos dados;
@@ -39,7 +39,7 @@ Grande parte do trabalho do cientista de dados está justamente nesta fase de ob
 
 Felizmente, para cada obstáculo apresentado anteriormente, existem uma série de possibilidades consistentes para permitir que o valor da Data Science seja atingido. 
 
-Para isso, a equipe responsável por implementar projetos de ciência de dados devem contar com profissionais com hard-skills de alta amplitude, dado a complexidade das tarefas que se apresentarão para a equipe. Além disso, não é exagero afirmar que uma infraestrutura flexível e poderosa deve estar à disposição da equipe, pois inúmeras soluções deverão ser destacadas durante o ciclo de vida de desenvolvimento, inclusive, para adaptar-se às mudanças das fontes externas de dados.
+Para isso, a equipe responsável por implementar projetos de ciência de dados devem contar com profissionais com hard-skills de alta amplitude, dada a complexidade das tarefas que se apresentarão para a equipe. Além disso, não é exagero afirmar que uma infraestrutura flexível e poderosa deve estar à disposição da equipe, pois inúmeras soluções deverão ser destacadas durante o ciclo de vida de desenvolvimento, inclusive, para adaptar-se às mudanças das fontes externas de dados.
 
 A [Deeployer](mailto:contato@deeployer.com) é uma empresa com um time multidisciplinar de cientistas de dados preparada para atender a todas as suas necessidades de Data Science. 
 
