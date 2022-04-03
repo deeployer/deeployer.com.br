@@ -3,7 +3,7 @@ title: "Os desafios das fontes de dados"
 author: Leandro Daniel
 header:
   image: "/assets/images/deeployer-website-headers-library.png"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Gabriel Sollmann**](https://unsplash.com/@gabons)"
 categories:
   - data science
 tags: 
