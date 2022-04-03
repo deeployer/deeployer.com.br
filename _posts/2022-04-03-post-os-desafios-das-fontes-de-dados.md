@@ -45,7 +45,7 @@ A [Deeployer](mailto:contato@deeployer.com) é uma empresa com um time multidisc
 
 Entre em [contato](https://deeployer.com/contact/) conosco e nos diga como podemos ajudar a sua empresa a crescer.
 
-Até o próximo post!
+Até o próximo post! 
 
 ## Referências utilizadas neste post:
 - **Jorge Luis Borges**, escritor, poeta e crítico literário argentino, tratou em suas obras sobre o "caos que governa o mundo e o caráter de irrealidade em toda a literatura". Escreveu o conto [The Library of Babel](https://en.wikipedia.org/wiki/The_Library_of_Babel) em 1944, no livro [Ficciones](https://pt.wikipedia.org/wiki/Ficciones), considerada uma de suas melhores obras. A Biblioteca de Babel pode ser entendida como uma metáfora para a Sociedade da Informação.
