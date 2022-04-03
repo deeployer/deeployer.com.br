@@ -3,7 +3,7 @@ title: "O que é Data Science?"
 author: Leandro Daniel
 header:
   image: "/assets/images/deeployer-website-headers-entropy.png"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Greg Rakozy**](https://unsplash.com/@grakozy)"
 categories:
   - data science
 tags: 
