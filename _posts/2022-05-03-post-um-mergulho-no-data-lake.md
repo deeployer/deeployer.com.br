@@ -11,7 +11,9 @@ tags:
   - pt-br
 ---
 
-Você que está acompanhando este blog sabe que, até aqui, falamos sobre [o que é Data Science](https://deeployer.com.br/data%20science/post-o-que-e-data-science/) e apresentamos alguns dos [desafios das fontes de dados](https://deeployer.com.br/data%20science/post-os-desafios-das-fontes-de-dados/). Caso não tenha lido os posts anteriores, recomendo que invista 5 minutos nesta leitura, que será bem proveitosa para o assunto deste post.😄
+Você que está acompanhando este blog sabe que, até aqui, falamos sobre [o que é Data Science](https://deeployer.com.br/data%20science/post-o-que-e-data-science/) e apresentamos alguns dos [desafios das fontes de dados](https://deeployer.com.br/data%20science/post-os-desafios-das-fontes-de-dados/). Caso não tenha lido os posts anteriores, recomendo que invista ao menos 4 minutos para leitura do segundo, pois será bem proveitosa para o assunto deste post.😄
+
+Vamos tomar como ponto de partida dois dos quatro itens citados no post anterior: `volume dos dados disponibilizados` e `variedade de formatos de dados`. 
 
 # To-do: Desenvolvimento
 
