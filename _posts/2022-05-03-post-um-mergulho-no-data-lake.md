@@ -41,7 +41,7 @@ Um deles, é com relação a governança adequada, seja para avaliar questões d
 
 A falta de um esquema ou metadados descritvos podem tornar os dados difíceis de serem consumidos e consultados. Isso também pode impactar na consistência semântica dos dados, gerando desafios particulares na execução de análises por consumidores que não sejam altamente especializados no domínio em questão. 
 
-Ainda relacionado a poucas informações sobre os dados de origem, a qualidade também pode ser difícil de ser garantida após o dado ser transferido para o Data Lake. Como efeito colateral indesesável, e possivelmente o mais danoso para a empresa, um data lake pode se tornar uma "lixeira de dados" que nunca serão analisados ou dos quais não são extraídas informações.
+Ainda relacionado a poucas informações sobre os dados de origem, a qualidade também pode ser difícil de ser garantida após o dado ser transferido para o Data Lake. Como efeito colateral indesejável, e possivelmente o mais danoso para a empresa, um data lake pode se tornar uma "lixeira de dados" que nunca serão analisados ou das quais não são extraídas informações relevantes.
 
 A [Deeployer](mailto:contato@deeployer.com) é uma empresa com um time multidisciplinar de cientistas de dados preparada para atender a todas as suas necessidades de Data Science. 
 
@@ -50,7 +50,6 @@ Entre em [contato](https://deeployer.com/contact/) conosco e nos diga como podem
 Até o próximo post!
 
 ## Referências utilizadas neste post:
-- **Dados estruturados**, to-do.
-- **Dados semi-estruturados**, to-do.
-- **Dados não estruturados**, to-do.
-- **Nome**, to-do.
+- **Dados estruturados**, são dados que contém uma organização para serem recuperados, como por exemplo, tabelas em um banco de dados relacional. 
+- **Dados semi-estruturados**, são dados  que possuem organização bastante heterogênea e distinção nebulosa entre estrutura e valor, o que dificulta sua consulta e classificação. Alguns exemplos são arquivos XML e JSON.
+- **Dados não estruturados**, são dados onde não conseguimos identificar uma organização clara, como arquivos de áudio, vídeo e imagens.
