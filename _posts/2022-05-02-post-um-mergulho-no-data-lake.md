@@ -19,7 +19,7 @@ Vamos tomar como ponto de partida dois dos quatro itens citados no post anterior
 
 Chamamos de Data Lake um repositório de armazenamento capaz de abrigar uma quantidade de dados muito grande com a característica de manter seu formato nativo e bruto, também chamado de _raw data_. As tecnologias disponíveis para os Data Lakes são otimizadas para um dimensionamento de terabytes ou mesmo petabytes de dados - conhecido como o conceito de Big Data.
 
-Os dados de um Data Lake tem origem em fontes de dados heterogêneas e podem ser estruturados, semi-estruturados ou não estruturados, mas sempre preservando seu estado e formatos originais, não transformados ou tratados. 
+Os dados de um Data Lake tem origem em fontes de dados heterogêneas e podem ser <a href="https://deeployer.com.br/data%20science/post-um-mergulho-no-data-lake/#refer%C3%AAncias-utilizadas-neste-post">estruturados</a>, <a href="https://deeployer.com.br/data%20science/post-um-mergulho-no-data-lake/#refer%C3%AAncias-utilizadas-neste-post">semi-estruturados</a> ou <a href="https://deeployer.com.br/data%20science/post-um-mergulho-no-data-lake/#refer%C3%AAncias-utilizadas-neste-post">não estruturados</a>, mas sempre preservando seu estado e formatos originais, não transformados ou tratados. 
 
 Uma boa solução de Data Lake deve compreender tanto o processamento quanto o armazenamento dos dados, possuir tolerância a falhas, escalabilidade (virtualmente) infinita e capacidade de ingestão com alta taxa de transferência com vários formatos e tamanhos.
 
