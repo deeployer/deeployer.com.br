@@ -39,7 +39,9 @@ Uma vez que a solução foi definida, é importante estar ciente que a manutenç
 
 Um deles, é com relação a governança adequada, seja para avaliar questões de privacidade e controle de acesso ou ainda para definir os _ownerships_ dos processos envolvidos. Em outras palavras, uma dúvida a ser respondida é: Quem é o proprietário (ownership) de um determinado domínio?
 
-A falta de um esquema ou metadados descritvos podem tornar os dados difíceis de serem consumidos e consultados. Isso também pode impactar na consistência semântica nos dados, gerando desafios particulares na execução de análises de dados em consumidores que não sejam altamente especializados no domínio do dado. Ainda relacionado a poucas informações sobre os dados de origem, a qualidade também pode ser difícil de ser garantida após o dado ser transferido para o Data Lake. Como efeito colateral indesesável, e possivelmente o mais danoso para a empresa, um data lake pode se tornar uma "lixeira de dados" que nunca serão analisados ou dos quais não são extraídas informações.
+A falta de um esquema ou metadados descritvos podem tornar os dados difíceis de serem consumidos e consultados. Isso também pode impactar na consistência semântica dos dados, gerando desafios particulares na execução de análises por consumidores que não sejam altamente especializados no domínio em questão. 
+
+Ainda relacionado a poucas informações sobre os dados de origem, a qualidade também pode ser difícil de ser garantida após o dado ser transferido para o Data Lake. Como efeito colateral indesesável, e possivelmente o mais danoso para a empresa, um data lake pode se tornar uma "lixeira de dados" que nunca serão analisados ou dos quais não são extraídas informações.
 
 A [Deeployer](mailto:contato@deeployer.com) é uma empresa com um time multidisciplinar de cientistas de dados preparada para atender a todas as suas necessidades de Data Science. 
 
