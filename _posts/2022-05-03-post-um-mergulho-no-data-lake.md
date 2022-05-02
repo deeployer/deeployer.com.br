@@ -13,11 +13,21 @@ tags:
 
 Você que está acompanhando este blog sabe que, até aqui, falamos sobre [o que é Data Science](https://deeployer.com.br/data%20science/post-o-que-e-data-science/) e apresentamos alguns dos [desafios das fontes de dados](https://deeployer.com.br/data%20science/post-os-desafios-das-fontes-de-dados/). Caso não tenha lido os posts anteriores, recomendo que invista ao menos 4 minutos para leitura do segundo, pois será bem proveitosa para o assunto deste post.😄
 
-Vamos tomar como ponto de partida dois dos quatro itens citados no post anterior: `volume dos dados disponibilizados` e `variedade de formatos de dados`. Ambos trazem a necessidade de uma solução de ingestão e armazenamento de dados compatíveis com os processos e necessidades de projetos de Data Science. E para este tipo de solução, uma das opções mais utilizadas é o ** Data Lake**.
+Vamos tomar como ponto de partida dois dos quatro itens citados no post anterior: `volume dos dados disponibilizados` e `variedade de formatos de dados`. Ambos trazem a necessidade de uma solução de ingestão e armazenamento de dados compatíveis com os processos e necessidades de projetos de Data Science. E para este tipo de solução, uma das opções mais utilizadas é o **Data Lake**.
 
 # Mas o que é um Data Lake?
 
-Chamamos de Data Lake um repositório de armazenamento capaz de abrigar uma quantidade de dados muito grande com a característica de manter seu formato nativo e bruto, também chamado de _raw data_.
+Chamamos de Data Lake um repositório de armazenamento capaz de abrigar uma quantidade de dados muito grande com a característica de manter seu formato nativo e bruto, também chamado de _raw data_. As tecnologias disponíveis para os Data Lakes são otimizadas para um dimensionamento de terabytes ou mesmo petabytes de dados - conhecido como o conceito de Big Data.
+
+Os dados de um Data Lake tem origem em fontes de dados heterogêneas e podem ser estruturados, semi-estruturados ou não estruturados, mas sempre preservando seu estado e formatos originais, não transformados ou tratados. 
+
+Uma boa solução de Data Lake deve compreender tanto o processamento quanto o armazenamento dos dados, possuir tolerância a falhas, escalabilidade (virtualmente) infinita e capacidade de ingestão com alta taxa de transferência com vários formatos e tamanhos.
+
+Como vantagens de um data lake, podemos destacar:
+
+- Os dados são mantidos e nunca descartados, uma vez que são armazenados no formato bruto;
+- A partir do _raw data_ os consumidores dos dados podem criar suas próprias consultas e processos de limpeza e tratamento dos dados;
+- Diferente de outras abordagens a tecnologias mais tradicionais de armazenamento de dados, como um _Data Warehouse_, um Data Lake pode armazenar dados não estruturados e semi-estruturados.
 
 # To-do: Conclusão
 
@@ -30,5 +40,7 @@ Entre em [contato](https://deeployer.com/contact/) conosco e nos diga como podem
 Até o próximo post!
 
 ## Referências utilizadas neste post:
-- **Nome**, to-do.
+- **Dados estruturados**, to-do.
+- **Dados semi-estruturados**, to-do.
+- **Dados não estruturados**, to-do.
 - **Nome**, to-do.
