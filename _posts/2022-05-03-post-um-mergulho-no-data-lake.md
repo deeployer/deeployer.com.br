@@ -29,6 +29,8 @@ Como vantagens de um data lake, podemos destacar:
 - A partir do _raw data_ os consumidores dos dados podem criar suas próprias consultas e processos de limpeza e tratamento dos dados;
 - Diferente de outras abordagens a tecnologias mais tradicionais de armazenamento de dados, como um _Data Warehouse_, um Data Lake pode armazenar dados não estruturados e semi-estruturados.
 
+<img src="https://deeployer.com.br/assets/images/post-data-lake.png" />
+
 Um data lake, portanto, pode ser uma boa opção de solução para resolver o problema de `volume dos dados disponibilizados`, uma vez que sua arquitetura e infraestrutura são pensadas para acomodar grandes volumes. Por fim, o problema da `variedade de formatos de dados` também é atendido levando em consideração a natureza heterogênea de armazenamento do _raw data_ de um data lake.
 
 # To-do: Conclusão
