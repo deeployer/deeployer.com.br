@@ -52,4 +52,4 @@ Até o próximo post!
 ## Referências utilizadas neste post:
 - **Dados estruturados**, são dados que contém uma organização para serem recuperados, como por exemplo, tabelas em um banco de dados relacional. 
 - **Dados semi-estruturados**, são dados  que possuem organização bastante heterogênea e distinção nebulosa entre estrutura e valor, o que dificulta sua consulta e classificação. Alguns exemplos são arquivos XML e JSON.
-- **Dados não estruturados**, são dados onde não conseguimos identificar uma organização clara, como arquivos de áudio, vídeo e imagens.
+- **Dados não estruturados**, são dados onde não conseguimos identificar uma organização clara, como arquivos de áudio, vídeo e imagens. 
