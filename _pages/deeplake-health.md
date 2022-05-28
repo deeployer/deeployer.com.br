@@ -11,4 +11,4 @@ Ao utilizar nossos produtos e serviços, você declara, por sua livre e espontâ
 <br />
 <a href="https://www.iubenda.com/privacy-policy/12662037" class="iubenda-white iubenda-noiframe iubenda-embed iubenda-noiframe " title="Política de Privacidade ">Política de Privacidade</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
 
-<button name="button" onclick="https://app.powerbi.com">Abrir Power BI</button>
+<a href="https://app.powerbi.com" target="_blank" class="btn btn--primary">Abrir Power BI</a>
