@@ -1,7 +1,6 @@
 ---
-layout: single
+layout: splash
 author_profile: false
-title: "DeepLake: Health"
 header:
   image: "/assets/images/deeployer-website-headers-about.png"
 permalink: /deeplake-health/
