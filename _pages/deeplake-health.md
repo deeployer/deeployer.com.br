@@ -1,6 +1,8 @@
 ---
 layout: splash
 author_profile: false
+header:
+  image: "/assets/images/deeployer-website-headers-deeplake-health.png"
 permalink: /deeplake-health/
 ---
 
