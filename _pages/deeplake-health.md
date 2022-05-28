@@ -1,6 +1,7 @@
 ---
 layout: splash
 author_profile: false
+title: "Acesso a Plataforma DeepLake: Health"
 header:
   image: "/assets/images/deeployer-website-headers-deeplake-health.png"
 permalink: /deeplake-health/
