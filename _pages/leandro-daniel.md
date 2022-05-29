@@ -6,7 +6,7 @@ permalink: /leandro-daniel/
 
 <br />
 
-<table style="margin-left: auto; margin-right: auto;">
+<table style="margin-left: auto; margin-right: auto; border: none; width:600px" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <img src="/assets/images/leandrodaniel-avatar.png" alt="Leandro Daniel" style="margin-left: auto; margin-right: auto;">
