@@ -9,7 +9,8 @@ permalink: /leandro-daniel/
 <table style="margin-left: auto; margin-right: auto;">
   <tr>
     <td>
-      <img src="/assets/images/leandrodaniel-avatar.png" alt="Leandro Daniel" itemprop="image" class="u-photo">
+      <img src="/assets/images/leandrodaniel-avatar.png" alt="Leandro Daniel" style="margin-left: auto; margin-right: auto;">
+      <br />
       <a class="u-url" rel="me" href="mailto: leandro.daniel@deeployer.com" itemprop="url"><strong>Leandro Daniel</strong></a>
       <p>Founder</p>
       <ul class="author__urls social-icons">
