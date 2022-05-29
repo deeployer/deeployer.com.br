@@ -11,9 +11,9 @@ permalink: /leandro-daniel/
     <td>
       <img src="/assets/images/leandrodaniel-avatar.png" alt="Leandro Daniel" style="margin-left: auto; margin-right: auto;">
       <br />
-      <a class="u-url" rel="me" href="mailto: leandro.daniel@deeployer.com" itemprop="url"><strong>Leandro Daniel</strong></a>
+      <a href="mailto: leandro.daniel@deeployer.com"><strong>Leandro Daniel</strong></a>
       <p>Founder</p>
-      <ul class="author__urls social-icons">
+      <ul>
         <li><a href="https://wa.me/5511960784444" rel="nofollow noopener noreferrer me"><i class="fab fa-fw fa-whatsapp" aria-hidden="true"></i><span class="label">WhatsApp</span></a></li>   
         <li><a href="mailto:leandro.daniel@deeployer.com" rel="nofollow noopener noreferrer me"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i><span class="label">Email</span></a></li>
         <li><a href="https://www.linkedin.com/in/leandrodaniel" rel="nofollow noopener noreferrer me"><i class="fas fa-fw fa-link" aria-hidden="true"></i><span class="label">LinkedIn</span></a></li>
