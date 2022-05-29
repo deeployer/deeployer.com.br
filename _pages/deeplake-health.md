@@ -16,10 +16,3 @@ A **Plataforma DeepLake: Heatlh** é disponibilizada para consulta em dashboards
 <a href="https://app.powerbi.com" target="_blank" class="btn btn--primary">Abrir Microsoft Power BI Portal</a>
 
 <script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
-
-<script type="text/javascript">
-var _iub = _iub || [];
-_iub.csConfiguration = {"ccpaAcknowledgeOnDisplay":true,"consentOnContinuedBrowsing":false,"countryDetection":true,"enableCcpa":true,"floatingPreferencesButtonDisplay":"bottom-right","gdprAppliesGlobally":false,"invalidateConsentWithoutLog":true,"lang":"pt-BR","perPurposeConsent":true,"siteId":2669524,"whitelabel":false,"cookiePolicyId":12662037, "banner":{ "acceptButtonDisplay":true,"closeButtonDisplay":false,"customizeButtonDisplay":true,"explicitWithdrawal":true,"listPurposes":true,"position":"float-top-center","rejectButtonDisplay":true }};
-</script>
-<script type="text/javascript" src="//cdn.iubenda.com/cs/ccpa/stub.js"></script>
-<script type="text/javascript" src="//cdn.iubenda.com/cs/iubenda_cs.js" charset="UTF-8" async></script>
