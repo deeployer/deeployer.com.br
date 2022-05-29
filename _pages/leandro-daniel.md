@@ -30,4 +30,3 @@ permalink: /leandro-daniel/
     <li><a href="https://instagram.com/leandro.o.daniel" rel="nofollow noopener noreferrer me"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a></li>
   </ul>  
 </div>
-
