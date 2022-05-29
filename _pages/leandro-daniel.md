@@ -5,10 +5,6 @@ permalink: /leandro-daniel/
 ---
 
 <style>
- body{
-    background:#eee;
-}
-
 .card{
     border:none;
 
@@ -50,11 +46,6 @@ permalink: /leandro-daniel/
     transform:scaleY(1);
 }
 
-
-.fonts{
-    font-size:11px;
-}
-
 .social-list{
     display:flex;
     list-style:none;
@@ -67,7 +58,6 @@ permalink: /leandro-daniel/
     color:#8E24AA;
     font-size:19px;
 }
-
 
 .buttons button:nth-child(1){
        border:1px solid #8E24AA !important;
