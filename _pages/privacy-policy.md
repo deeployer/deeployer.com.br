@@ -4,7 +4,7 @@ author_profile: false
 title: "Política de Privacidade"
 header:
   image: "/assets/images/deeployer-website-headers-privacy.png"
-permalink: /deeplake-health/
+permalink: /privacy-policy/
 ---
 
 # Política de Privacidade
