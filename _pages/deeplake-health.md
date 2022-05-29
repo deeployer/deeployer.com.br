@@ -9,7 +9,7 @@ permalink: /deeplake-health/
 
 # Acesso a Plataforma DeepLake: Health
 
-Caro(a) usuário(a), ao utilizar nossos produtos e serviços, você declara, por sua livre e espontânea vontade, que leu, está ciente e concorda com a nossa <a href="https://www.iubenda.com/privacy-policy/12662037" class="iubenda-white iubenda-noiframe iubenda-embed iubenda-noiframe " title="Política de Privacidade ">Política de Privacidade</a>. Se você não concordar com qualquer condição exposta na Política de Privacidade, você não deve utilizar nossos produtos e serviços.
+Caro(a) usuário(a), ao utilizar nossos produtos e serviços, você declara, por sua livre e espontânea vontade, que leu, está ciente e concorda com a nossa <a href="https://www.iubenda.com/privacy-policy/12662037" class="iubenda-white no-brand iubenda-noiframe iubenda-embed iubenda-noiframe " title="Política de Privacidade ">Política de Privacidade</a>. Se você não concordar com qualquer condição exposta na Política de Privacidade, você não deve utilizar nossos produtos e serviços.
 <br /><br />
 A **Plataforma DeepLake: Heatlh** é disponibilizada para consulta em dashboards do Microsoft Power BI Portal. Para acessar, basta clicar no botão abaixo, será aberta uma nova janela solicitando o seu login. Em caso de dúvidas, por favor, entre em contato conosco através do e-mail <a href="mailto:suporte@deeployer.com?subject=Suporte com Acesso ao Deeplake: Health&body=Olá, gostaria do suporte da Deeployer para...">suporte@deeployer.com</a>.
 <br /><br />
