@@ -59,7 +59,7 @@ permalink: /daniel-campos/
 </style>
 
 <center>
-  <img src="/assets/images/danielcampos-avatar.png" style="text-align: center; border-radius: 50%; width: 150px;">
+  <img src="/assets/images/danielcampos-avatar.jpg" style="text-align: center; border-radius: 50%; width: 150px;">
   <br /><br />
   <span style="text-align:center; font-size:1.4em; font-weight:bold; line-height: 80%;">Daniel Campos</span>
   <br />  
