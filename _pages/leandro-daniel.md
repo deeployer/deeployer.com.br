@@ -8,8 +8,8 @@ permalink: /leandro-daniel/
 
 <table style="margin-left: auto; margin-right: auto; border: none; width:600px" cellspacing="0" cellpadding="0">
   <tr>
-    <td>
-      <img src="/assets/images/leandrodaniel-avatar.png" alt="Leandro Daniel" style="border-radius: 50%; width: 180px">
+    <td style="text-align: center;">
+      <img src="/assets/images/leandrodaniel-avatar.png" alt="Leandro Daniel" style="border-radius: width:150px;height:150px; border: solid 1px #555; background-color: #eed; box-shadow: 10px -10px rgba(0,0,0,0.6); -moz-box-shadow: 10px -10px rgba(0,0,0,0.6); -webkit-box-shadow: 10px -10px rgba(0,0,0,0.6); -o-box-shadow: 10px -10px rgba(0,0,0,0.6);">
       <br />
       <a href="mailto: leandro.daniel@deeployer.com"><strong>Leandro Daniel</strong></a>
       <p>Founder</p>
