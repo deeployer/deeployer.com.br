@@ -4,14 +4,16 @@ author_profile: false
 permalink: /leandro-daniel/
 ---
 
-![Leandro Daniel](/assets/images/leandrodaniel-avatar.png){: .align-center}
-
-# Leandro Daniel
+![Leandro Daniel](/assets/images/leandrodaniel-avatar.png)
 {: .align-center}
 
-(Founder / Business Architect)
-{: style="text-align: center; font-size:0.7em;"}
+Leandro Daniel
+{: style="text-align: center; font-size:2.0em;"}
 
-<i class="fab fa-researchgate" aria-hidden="true"></i>[WhatsApp](https://wa.me/5511960784444){: .align-center .btn btn--inverse btn--x-large}
+(Founder / Business Architect)
+{: style="text-align: center; font-size:1.8em;"}
+
+[WhatsApp](https://wa.me/5511960784444)
+{: .align-center .btn btn--inverse btn--x-large}
 
 
