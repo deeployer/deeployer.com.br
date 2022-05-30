@@ -12,6 +12,6 @@ Leandro Daniel
 (Founder / Business Architect)
 {: style="text-align: center; font-size:1.0em;"}
 
-[WhatsApp](https://wa.me/5511960784444){: .btn btn--inverse btn--x-large}
-{: .align-center}
+[WhatsApp](https://wa.me/5511960784444)
+{: class=".btn btn--inverse btn--x-large" }
 
