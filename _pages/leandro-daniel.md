@@ -67,13 +67,13 @@ permalink: /leandro-daniel/
   <br />
   <a href="mailto:leandro.daniel@deeployer.com">leandro.daniel@deeployer.com</a>
   <br /><br />
-  <button class="profilebutton" role="button" onclick="window.location = 'https://wa.me/5511960784444';"><span class="fa-brands fa-whatsapp"></span>WhatsApp</button>
+  <button class="profilebutton" role="button" onclick="window.location = 'https://wa.me/5511960784444';"><span class="fa-brands fa-whatsapp"></span>&nbsp;WhatsApp</button>
   <br /><br />
-  <button class="profilebutton" role="button" onclick="window.location = 'https://github.com/ldaniel';"><span class="fa-brands fa-github"></span>GitHub</button>  
+  <button class="profilebutton" role="button" onclick="window.location = 'https://github.com/ldaniel';"><span class="fa-brands fa-github"></span>&nbsp;GitHub</button>  
   <br /><br />
-  <button class="profilebutton" role="button" onclick="window.location = 'https://linkedin.com/in/leandrodaniel';"><span class="fa-brands fa-linkedin"></span>LinkedIn</button>
+  <button class="profilebutton" role="button" onclick="window.location = 'https://linkedin.com/in/leandrodaniel';"><span class="fa-brands fa-linkedin"></span>&nbsp;LinkedIn</button>
   <br /><br />
-  <button class="profilebutton" role="button" onclick="window.location = 'https://twitter.com/leandronet';"><span class="fa-brands fa-twitter"></span>Twitter</button>
+  <button class="profilebutton" role="button" onclick="window.location = 'https://twitter.com/leandronet';"><span class="fa-brands fa-twitter"></span>&nbsp;Twitter</button>
   <br /><br />
-  <button class="profilebutton" role="button" onclick="window.location = 'https://instagram.com/leandro.o.daniel';"><span class="fa-brands fa-instagram"></span>Instagram</button>
+  <button class="profilebutton" role="button" onclick="window.location = 'https://instagram.com/leandro.o.daniel';"><span class="fa-brands fa-instagram"></span>&nbsp;Instagram</button>
 </center>
