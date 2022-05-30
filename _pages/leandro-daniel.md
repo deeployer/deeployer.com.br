@@ -5,7 +5,7 @@ permalink: /leandro-daniel/
 ---
 
 ![Leandro Daniel](/assets/images/leandrodaniel-avatar.png)
-{: .align-center}
+{: style="text-align: center; width: 150px; border-radius: 50%;"}
 
 Leandro Daniel
 {: style="text-align: center; font-size:2.0em;"}
