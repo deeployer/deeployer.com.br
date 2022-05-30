@@ -6,7 +6,7 @@ permalink: /leandro-daniel/
 
 <style>
 .profilebutton {
-  background-image: linear-gradient(92.88deg, #455EB5 9.16%, #5643CC 43.89%, #673FD7 64.72%);
+  background-color: #845EC2;
   border-radius: 8px;
   border-style: none;
   box-sizing: border-box;
