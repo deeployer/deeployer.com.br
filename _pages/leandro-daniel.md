@@ -7,7 +7,7 @@ permalink: /leandro-daniel/
 <br />
 
 <table style="margin: 0px auto; border: none; width: 600px" cellspacing="0" cellpadding="0">
-  <tr>
+  <tr style="background-color:#f0f8ff; margin:0; border:0; padding:0;">
     <td style="text-align: center;">
       <img src="/assets/images/leandrodaniel-avatar.png" alt="Leandro Daniel" style="border-radius: 50%; width:150px; height:150px;">
       <br />
