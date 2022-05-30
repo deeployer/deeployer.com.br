@@ -12,5 +12,6 @@ permalink: /leandro-daniel/
 (Founder / Business Architect)
 {: .align-center}
 
-[WhatsApp]([#link](https://wa.me/5511960784444)){: .btn btn--inverse btn--x-large .align-center}
+[WhatsApp](https://wa.me/5511960784444){: .btn btn--inverse btn--x-large .align-center}
+
 
