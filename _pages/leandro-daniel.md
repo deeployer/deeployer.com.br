@@ -57,15 +57,26 @@ permalink: /leandro-daniel/
 }
 </style>
 
-![Leandro Daniel](/assets/images/leandrodaniel-avatar.png){: style="text-align: center; border-radius: 50%; width: 150px;"}
-
-Leandro Daniel
-{: style="text-align:center; font-size:1.4em; font-weight:bold; line-height: 80%;"}
-(Founder / Business Architect)
-{: style="text-align: center; font-size:1.0em; line-height: 80%;"}
 
 <center>
+  ![Leandro Daniel](/assets/images/leandrodaniel-avatar.png){: style="text-align: center; border-radius: 50%; width: 150px;"}
+
+  Leandro Daniel
+  {: style="text-align:center; font-size:1.4em; font-weight:bold; line-height: 80%;"}
+  (Founder / Business Architect)
+  {: style="text-align: center; font-size:1.0em; line-height: 80%;"}
+ 
+  <a href="mailto:leandro.daniel@deeployer.com">leandro.daniel@deeployer.com</a>
+  <br />
   <button class="profilebutton" role="button" onclick="window.location = 'https://wa.me/5511960784444';">WhatsApp</button>
+  <br />
+  <button class="profilebutton" role="button" onclick="window.location = 'https://github.com/ldaniel';">GitHub</button>  
+  <br />
+  <button class="profilebutton" role="button" onclick="window.location = 'https://linkedin.com/in/leandrodaniel';">LinkedIn</button>
+  <br />
+  <button class="profilebutton" role="button" onclick="window.location = 'https://twitter.com/leandronet';">Twitter</button>
+  <br />
+  <button class="profilebutton" role="button" onclick="window.location = 'https://instagram.com/leandro.o.daniel';">Instagram</button>
 </center>
 
 
