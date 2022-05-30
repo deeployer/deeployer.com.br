@@ -10,7 +10,7 @@ permalink: /leandro-daniel/
 {: .align-center}
 
 (Founder / Business Architect)
-{: .align-center}
+{: style="text-align: center; font-size:0.7em;"}
 
 <i class="fab fa-researchgate" aria-hidden="true"></i>[WhatsApp](https://wa.me/5511960784444){: .align-center .btn btn--inverse btn--x-large}
 
