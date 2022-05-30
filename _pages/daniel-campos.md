@@ -65,7 +65,7 @@ permalink: /daniel-campos/
   <br />  
   <span style="text-align: center; font-size:1.0em; line-height: 80%;">(Founder)</span>
   <br />
-  <a href="mailto:leandro.daniel@deeployer.com">daniel.campos@deeployer.com</a>
+  <a href="mailto:daniel.campos@deeployer.com">daniel.campos@deeployer.com</a>
   <br /><br />
   <button class="profilebutton" role="button" onclick="window.location = 'https://wa.me/5511989991876';"><span class="fa-brands fa-whatsapp"></span>&nbsp;WhatsApp</button>
   <br /><br />
