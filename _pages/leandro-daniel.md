@@ -66,8 +66,8 @@ permalink: /leandro-daniel/
   <span style="text-align: center; font-size:1.0em; line-height: 80%;">(Founder / Business Architect)</span>
   <br />
   <a href="mailto:leandro.daniel@deeployer.com">leandro.daniel@deeployer.com</a>
-  <br /><br /><br />
-  <button class="profilebutton" role="button" onclick="window.location = 'https://wa.me/5511960784444';">WhatsApp</button>
+  <br /><br />
+  <button class="profilebutton" role="button" onclick="window.location = 'https://wa.me/5511960784444';"><span class="fa-brands fa-whatsapp">WhatsApp</span></button>
   <br /><br />
   <button class="profilebutton" role="button" onclick="window.location = 'https://github.com/ldaniel';">GitHub</button>  
   <br /><br />
