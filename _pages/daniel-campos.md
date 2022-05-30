@@ -73,7 +73,7 @@ permalink: /daniel-campos/
   <br /><br />
   <button class="profilebutton" role="button" onclick="window.location = 'https://www.linkedin.com/in/daniel-ferraz-de-campos/';"><span class="fa-brands fa-linkedin"></span>&nbsp;LinkedIn</button>
   <br /><br />
-  <button class="profilebutton" role="button" onclick="window.location = 'https://twitter.com/#';"><span class="fa-brands fa-twitter"></span>&nbsp;Twitter</button>
+  <button class="profilebutton" role="button" onclick="window.location = 'https://www.kaggle.com/danielferrazcampos';"><span class="fab fa-kaggle"></span>&nbsp;Kaggle</button>
   <br /><br />
   <button class="profilebutton" role="button" onclick="window.location = 'https://www.instagram.com/danielferrazcampos/';"><span class="fa-brands fa-instagram"></span>&nbsp;Instagram</button>
   <br /><br />
