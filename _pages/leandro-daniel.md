@@ -64,9 +64,8 @@ Leandro Daniel
 (Founder / Business Architect)
 {: style="text-align: center; font-size:1.0em; line-height: 80%;"}
 
-[WhatsApp](https://wa.me/5511960784444)
-{: class="profilebutton" }
-
-<button class="profilebutton" role="button" onclick="window.location = 'https://wa.me/5511960784444';">WhatsApp</button>
+<center>
+  <button class="profilebutton" role="button" onclick="window.location = 'https://wa.me/5511960784444';">WhatsApp</button>
+</center>
 
 
