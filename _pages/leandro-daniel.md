@@ -18,8 +18,6 @@ permalink: /leandro-daniel/
       <br />
       <a href="mailto:leandro.daniel@deeployer.com" target="_blank" class="btn btn--info btn--x-large"><span class="fas fa-fw fa-envelope">&nbsp;E-mail</span></a>
       <br />
-      <a href="https://www.linkedin.com/in/leandrodaniel" target="_blank" class="btn btn--info btn--x-large"><span class="fas fa-fw fa-link">&nbsp;LinkedIn</span></a>
-      <br />
       <a href="https://www.linkedin.com/in/leandrodaniel" target="_blank" class="btn btn--info btn--x-large"><span class="fab fa-fw fa-twitter">&nbsp;LinkedIn</span></a>
       <br />
       <a href="https://github.com/ldaniel" target="_blank" class="btn btn--info btn--x-large"><span class="fab fa-fw fa-github">&nbsp;GitHub</span></a>
