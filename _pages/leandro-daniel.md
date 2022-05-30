@@ -19,7 +19,7 @@ permalink: /leandro-daniel/
       <br />
       <a href="https://twitter.com/leandronet" target="_blank" class="btn btn--info btn--x-large"><span class="fab fa-fw fa-twitter">&nbsp;Twitter</span></a>
       <br />
-      <a href="https://www.linkedin.com/in/leandrodaniel" target="_blank" class="btn btn--info btn--x-large"><span class="fab fa-fw fa-twitter">&nbsp;LinkedIn</span></a>
+      <a href="https://www.linkedin.com/in/leandrodaniel" target="_blank" class="btn btn--info btn--x-large"><span class="fab fa-fw fa-linkedin">&nbsp;LinkedIn</span></a>
       <br />
       <a href="https://github.com/ldaniel" target="_blank" class="btn btn--info btn--x-large"><span class="fab fa-fw fa-github">&nbsp;GitHub</span></a>
       <br />
