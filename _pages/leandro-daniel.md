@@ -60,7 +60,7 @@ permalink: /leandro-daniel/
 
 
 <center>
-  <img src="/assets/images/leandrodaniel-avatar.png)" style="text-align: center; border-radius: 50%; width: 150px;">
+  <img src="/assets/images/leandrodaniel-avatar.png" style="text-align: center; border-radius: 50%; width: 150px;">
   <br /><br />
   <span style="text-align:center; font-size:1.4em; font-weight:bold; line-height: 80%;">Leandro Daniel</span>
   <br />  
