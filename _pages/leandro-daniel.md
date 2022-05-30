@@ -49,6 +49,12 @@ permalink: /leandro-daniel/
 .profilebutton a:active {  
   color: #CDFEAA;
 }
+  
+@media (min-width: 768px) {
+  .profilebutton {
+    padding: 0 2.6rem;
+  }
+}
 </style>
 
 ![Leandro Daniel](/assets/images/leandrodaniel-avatar.png){: style="text-align: center; border-radius: 50%; width: 150px;"}
