@@ -76,4 +76,7 @@ permalink: /leandro-daniel/
   <button class="profilebutton" role="button" onclick="window.location = 'https://twitter.com/leandronet';"><span class="fa-brands fa-twitter"></span>&nbsp;Twitter</button>
   <br /><br />
   <button class="profilebutton" role="button" onclick="window.location = 'https://instagram.com/leandro.o.daniel';"><span class="fa-brands fa-instagram"></span>&nbsp;Instagram</button>
+  <br /><br />
+  <img src="/assets/images/qrcode-leandro-daniel.png" style="width: 400px;">
+
 </center>
