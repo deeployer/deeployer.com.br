@@ -4,8 +4,7 @@ author_profile: false
 permalink: /leandro-daniel/
 ---
 
-![Leandro Daniel](/assets/images/leandrodaniel-avatar.png)
-{: .align-center}
+![Leandro Daniel](/assets/images/leandrodaniel-avatar.png){: .align-center}
 
 Leandro Daniel
 {: style="text-align:center; font-size:1.4em; font-weight:bold;"}
