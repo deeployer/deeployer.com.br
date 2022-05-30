@@ -13,7 +13,6 @@ permalink: /leandro-daniel/
       <br />
       <h3><strong>Leandro Daniel</strong></h3>
       <h4>Founder</h4>
-      <br />
       <a href="https://wa.me/5511960784444" target="_blank" class="btn btn--info btn--x-large"><span class="fab fa-whatsapp">&nbsp;WhatsApp</span></a>
       <br />
       <a href="mailto:leandro.daniel@deeployer.com" target="_blank" class="btn btn--info btn--x-large"><span class="fas fa-fw fa-envelope">&nbsp;E-mail</span></a>
