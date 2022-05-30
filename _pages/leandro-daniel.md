@@ -12,6 +12,28 @@ permalink: /leandro-daniel/
   border-radius: 10px; 
   width: 200px;
 }
+  
+.profilebutton a:link {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.profilebutton a:visited {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.profilebutton a:focus {  
+  background: #BAE498;
+}
+
+.profilebutton a:hover {  
+  background: #CDFEAA;
+}
+
+.profilebutton a:active {  
+  color: #CDFEAA;
+}
 </style>
 
 ![Leandro Daniel](/assets/images/leandrodaniel-avatar.png){: style="text-align: center; border-radius: 50%; width: 150px;"}
