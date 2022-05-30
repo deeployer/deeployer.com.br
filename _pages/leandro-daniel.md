@@ -67,3 +67,6 @@ Leandro Daniel
 [WhatsApp](https://wa.me/5511960784444)
 {: class="profilebutton" }
 
+<button class="profilebutton" role="button" onclick="window.location = 'https://wa.me/5511960784444';">WhatsApp</button>
+
+
