@@ -13,16 +13,16 @@ permalink: /leandro-daniel/
       <br />
       <h1><strong>Leandro Daniel</strong></h1>
       <p>(Founder / Business Architect)</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://wa.me/5511960784444" target="_blank" class="btn btn--inverse btn--x-large"><span class="fab fa-whatsapp">&nbsp;WhatsApp</span></a>
-      <br /><br />
       <a href="mailto:leandro.daniel@deeployer.com" target="_blank" class="btn btn--inverse btn--x-large"><span class="fas fa-fw fa-envelope">&nbsp;E-mail</span></a>
-      <br /><br />
       <a href="https://twitter.com/leandronet" target="_blank" class="btn btn--inverse btn--x-large"><span class="fab fa-fw fa-twitter">&nbsp;Twitter</span></a>
-      <br /><br />
       <a href="https://www.linkedin.com/in/leandrodaniel" target="_blank" class="btn btn--inverse btn--x-large"><span class="fab fa-fw fa-linkedin">&nbsp;LinkedIn</span></a>
-      <br /><br />
       <a href="https://github.com/ldaniel" target="_blank" class="btn btn--inverse btn--x-large"><span class="fab fa-fw fa-github">&nbsp;GitHub</span></a>
-      <br /><br />
-      <a href="https://instagram.com/leandro.o.daniel" target="_blank" class="btn btn--inverse btn--x-large"><span class="fab fa-fw fa-instagram">&nbsp;Instagram</span></a>     </td>
+      <a href="https://instagram.com/leandro.o.daniel" target="_blank" class="btn btn--inverse btn--x-large"><span class="fab fa-fw fa-instagram">&nbsp;Instagram</span></a>     
+    </td>
   </tr>
 </table>
