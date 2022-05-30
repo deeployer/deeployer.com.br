@@ -58,7 +58,6 @@ permalink: /leandro-daniel/
 }
 </style>
 
-
 <center>
   <img src="/assets/images/leandrodaniel-avatar.png" style="text-align: center; border-radius: 50%; width: 150px;">
   <br /><br />
@@ -78,5 +77,3 @@ permalink: /leandro-daniel/
   <br /><br />
   <button class="profilebutton" role="button" onclick="window.location = 'https://instagram.com/leandro.o.daniel';">Instagram</button>
 </center>
-
-
