@@ -4,8 +4,6 @@ author_profile: false
 permalink: /leandro-daniel/
 ---
 
-<br />
-
 <table style="width: 600px; background-color:#845EC2;" cellspacing="0" cellpadding="0">
   <tr style="margin:0; border:0; padding:0;">
     <td style="text-align: center;">
