@@ -15,7 +15,7 @@ permalink: /leandro-daniel/
       <p>(Founder / Business Architect)</p>
       <a href="https://wa.me/5511960784444" target="_blank" class="btn btn--info btn--x-large"><span class="fab fa-whatsapp">&nbsp;WhatsApp</span></a>
       <br /><br />
-      <a href="mailto:leandro.daniel@deeployer.com" target="_blank" class="btn btn--info btn--x-large"><span class="fas fa-fw fa-envelope">&nbsp;E-mail</span></a>
+      <span class="fas fa-fw fa-envelope"><a href="mailto:leandro.daniel@deeployer.com" target="_blank" class="btn btn--info btn--x-large">&nbsp;E-mail</a></span>
       <br /><br />
       <a href="https://twitter.com/leandronet" target="_blank" class="btn btn--info btn--x-large"><span class="fab fa-fw fa-twitter">&nbsp;Twitter</span></a>
       <br /><br />
