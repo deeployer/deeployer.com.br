@@ -5,13 +5,13 @@ permalink: /leandro-daniel/
 ---
 
 ![Leandro Daniel](/assets/images/leandrodaniel-avatar.png)
-{: style="text-align: center; width: 150px; border-radius: 50%;"}
+{: .align-center}
 
 Leandro Daniel
-{: style="text-align: center; font-size:2.0em;"}
+{: style="text-align:center; font-size:1.4em; font-weight:bold;"}
 
 (Founder / Business Architect)
-{: style="text-align: center; font-size:1.8em;"}
+{: style="text-align: center; font-size:1.0em;"}
 
 [WhatsApp](https://wa.me/5511960784444)
 {: .align-center .btn btn--inverse btn--x-large}
