@@ -9,7 +9,7 @@ permalink: /leandro-daniel/
 <table style="margin-left: auto; margin-right: auto; border: none; width: 600px" cellspacing="0" cellpadding="0">
   <tr>
     <td style="text-align: center;">
-      <img src="/assets/images/leandrodaniel-avatar.png" alt="Leandro Daniel" style="border-radius: 50%; width:150px; height:150px; border: solid 1px #555; background-color: #eed; box-shadow: 10px -10px rgba(0,0,0,0.6); -moz-box-shadow: 10px -10px rgba(0,0,0,0.6); -webkit-box-shadow: 10px -10px rgba(0,0,0,0.6); -o-box-shadow: 10px -10px rgba(0,0,0,0.6);">
+      <img src="/assets/images/leandrodaniel-avatar.png" alt="Leandro Daniel" style="border-radius: 50%; width:150px; height:150px;">
       <br />
       <h1><strong>Leandro Daniel</strong></h1>
       <h2>(Founder / Business Architect)</h2>
