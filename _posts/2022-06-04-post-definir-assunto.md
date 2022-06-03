@@ -11,7 +11,7 @@ tags:
   - pt-br
 ---
 
-Se você está acompanhando os nossos posts desde o início vai lembrar que, até aqui, falamos sobre [o que é Data Science](https://deeployer.com.br/data%20science/post-o-que-e-data-science/), apresentamos alguns dos [desafios das fontes de dados](https://deeployer.com.br/data%20science/post-os-desafios-das-fontes-de-dados/) e também demos [um mergulho no Data Lake](https://deeployer.com.br/data%20science/post-um-mergulho-no-data-lake/), entendendo um poucos dos seus desafios e benefícios. 
+Se você está acompanhando os nossos posts desde o início vai lembrar que, até aqui, falamos sobre [o que é Data Science](https://deeployer.com.br/data%20science/post-o-que-e-data-science/), apresentamos alguns dos [desafios das fontes de dados](https://deeployer.com.br/data%20science/post-os-desafios-das-fontes-de-dados/) e também demos [um mergulho no Data Lake](https://deeployer.com.br/data%20science/post-um-mergulho-no-data-lake/), entendendo seus benefícios e razões de uso. 
 
 # Title
 
