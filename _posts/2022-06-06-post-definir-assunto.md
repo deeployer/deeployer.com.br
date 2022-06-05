@@ -2,8 +2,8 @@
 title: "Um mergulho no Data Lake"
 author: Leandro Daniel
 header:
-  image: "/assets/images/deeployer-website-headers-lake.png"
-  caption: "Photo credit: [**Garrett Sears**](https://unsplash.com/@garrettsears)"
+  image: "/assets/images/deeployer-website-headers-vortice.png"
+  caption: "Photo credit: [**Alexandra Nicolae**](https://unsplash.com/@macnicolae)"
 categories:
   - data science
 tags: 
