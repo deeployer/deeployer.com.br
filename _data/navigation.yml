@@ -4,8 +4,8 @@ main:
     url: https://deeployer.com.br/
   - title: "blog"
     url: /year-archive/
-  - title: "portifólio"
-    url: /portfolio/
+  - title: "serviços"
+    url: /services/
   - title: "sobre"
     url: /about/
   - title: "contato"
