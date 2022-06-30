@@ -3,7 +3,7 @@ layout: single
 author_profile: false
 title: "Conheça nossos produtos"
 header:
-  image: "/assets/images/deeployer-website-headers-deeplake-health.png"
+  image: "/assets/images/deeployer-website-headers-portfolio.png"
 permalink: /products/
 sidebar:
   nav: "products"
