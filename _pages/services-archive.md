@@ -10,4 +10,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Veja abaixo alguns dos trabalhos que já realizamos.
+Veja abaixo alguns dos serviços que já realizamos em nossos clientes.
