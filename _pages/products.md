@@ -10,8 +10,10 @@ sidebar:
 ---
 # DeepLake: Health
 
-A **Plataforma DeepLake: Heatlh** é disponibilizada para consulta em dashboards do Microsoft Power BI Portal. Para acessar, basta clicar no botão abaixo, será aberta uma nova janela solicitando o seu login. Em caso de dúvidas, por favor, entre em contato conosco através do e-mail <a href="mailto:suporte@deeployer.com?subject=Suporte com Acesso ao Deeplake: Health&body=Olá, gostaria do suporte da Deeployer para...">suporte@deeployer.com</a>.
+A **Plataforma DeepLake: Heatlh** é disponibilizada para consulta em dashboards do Microsoft Power BI Portal. Para acessar, basta clicar no botão abaixo. 
 <br /><br />
-<a href="https://app.powerbi.com" target="_blank" class="btn btn--primary">Abrir Microsoft Power BI Portal</a>
+<a href="/deeplake-health" target="_blank" class="btn btn--primary">Acessar o DeepLake: Health</a>
+<br /><br />
+Em caso de dúvidas, por favor, entre em contato conosco através do e-mail <a href="mailto:suporte@deeployer.com?subject=Suporte com Acesso ao Deeplake: Health&body=Olá, gostaria do suporte da Deeployer para...">suporte@deeployer.com</a>.
 
 
