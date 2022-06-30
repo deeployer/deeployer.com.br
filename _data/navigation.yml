@@ -2,10 +2,12 @@
 main:
   - title: "home"
     url: https://deeployer.com.br/
-  - title: "blog"
-    url: /year-archive/
+  - title: "produtos"
+    url: /products/
   - title: "serviços"
     url: /services/
+  - title: "blog"
+    url: /year-archive/
   - title: "sobre"
     url: /about/
   - title: "contato"
