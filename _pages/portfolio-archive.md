@@ -1,8 +1,8 @@
 ---
-title: "Portifólio"
+title: "Serviços"
 layout: collection
-permalink: /portfolio/
-collection: portfolio
+permalink: /services/
+collection: services
 author_profile: true
 header:
   image: "/assets/images/deeployer-website-headers-portfolio.png"
