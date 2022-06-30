@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-title: "Produtos"
+title: "Conheça nossos produtos"
 header:
   image: "/assets/images/deeployer-website-headers-deeplake-health.png"
 permalink: /products/
@@ -10,10 +10,8 @@ sidebar:
 ---
 # DeepLake: Health
 
-A **Plataforma DeepLake: Heatlh** é disponibilizada para consulta em dashboards do Microsoft Power BI Portal. Para acessar, basta clicar no botão abaixo. 
+A **Plataforma DeepLake: Heatlh** é disponibilizada para consulta em dashboards do Microsoft Power BI Portal. 
 <br /><br />
-<a href="/deeplake-health" target="_blank" class="btn btn--primary">Acessar o DeepLake: Health</a>
-<br /><br />
-Em caso de dúvidas, por favor, entre em contato conosco através do e-mail <a href="mailto:suporte@deeployer.com?subject=Suporte com Acesso ao Deeplake: Health&body=Olá, gostaria do suporte da Deeployer para...">suporte@deeployer.com</a>.
+Para saber mais sobre este produto ou para solicitar uma demonstração, por favor, entre em contato conosco através do e-mail <a href="mailto:contato@deeployer.com?subject=Solicitação de demonstração do Deeplake: Health&body=Olá, gostaria de solicitar uma demonstração do DeepLake: Health.">contato@deeployer.com</a>.
 
 
