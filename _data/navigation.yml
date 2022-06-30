@@ -34,7 +34,7 @@ products:
   - title: O que tem aqui?
     children:
     - title: "DeepLake: Health"
-      url: "#"
+      url: "https://deeployer.com.br/products/#deeplake-health"
 
 # sidebar menu links
 posts:
