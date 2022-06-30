@@ -1,8 +1,8 @@
 ---
-title: "Portifólio"
+title: "Serviços"
 layout: collection
-permalink: /portfolio/
-collection: portfolio
+permalink: /services/
+collection: services
 author_profile: true
 header:
   image: "/assets/images/deeployer-website-headers-portfolio.png"
@@ -10,4 +10,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Veja abaixo alguns dos trabalhos que já realizamos.
+Veja abaixo alguns dos serviços que já realizamos em nossos clientes.

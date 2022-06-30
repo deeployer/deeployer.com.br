@@ -2,10 +2,12 @@
 main:
   - title: "home"
     url: https://deeployer.com.br/
+  - title: "produtos"
+    url: /products/
+  - title: "serviços"
+    url: /services/
   - title: "blog"
     url: /year-archive/
-  - title: "portifólio"
-    url: /portfolio/
   - title: "sobre"
     url: /about/
   - title: "contato"
@@ -27,6 +29,12 @@ about:
         url: "https://deeployer.com.br/about/#c%C3%B3digo-de-conduta"
       - title: "política de privacidade"
         url: "https://deeployer.com.br/privacy-policy/"
+
+products:
+  - title: Nossos produtos
+    children:
+    - title: "DeepLake: Health"
+      url: "https://deeployer.com.br/products/#deeplake-health"
 
 # sidebar menu links
 posts:
