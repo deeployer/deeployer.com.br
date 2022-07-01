@@ -8,9 +8,10 @@ permalink: /products/
 sidebar:
   nav: "products"
 ---
-## Sobre a Plataforma DeepLake: Health
 
 <img src="https://deeployer.com.br/assets/images/deeployer-logo-deeplake.png" />
+
+## Sobre a Plataforma DeepLake: Health
 
 A **Plataforma DeepLake: Health** é disponibilizada para consulta em dashboards do Microsoft Power BI Portal. 
 <br /><br />
