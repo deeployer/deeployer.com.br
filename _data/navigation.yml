@@ -39,6 +39,8 @@ products:
       url: "https://deeployer.com.br/products/#deeplake-health-datasus"
     - title: "DeepLake: Health (ANS)"
       url: "https://deeployer.com.br/products/#deeplake-health-ans"
+    - title: "Acesso a Plataforma DeepLake: Health"
+      url: "https://deeployer.com.br/deeplake-health/"
 
 # sidebar menu links
 posts:
