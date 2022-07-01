@@ -17,7 +17,7 @@ main:
 
 # sidebar menu links
 about:
-  - title: O que tem aqui?
+  - title: "O que tem aqui?"
     children:
       - title: "nossa visão"
         url: "https://deeployer.com.br/about/#nossa-vis%C3%A3o"
@@ -31,7 +31,7 @@ about:
         url: "https://deeployer.com.br/privacy-policy/"
 
 products:
-  - title: DeepLake: Health
+  - title: "DeepLake: Health"
     children:
     - title: "Sobre a Plataforma DeepLake: Health"
       url: "https://deeployer.com.br/products/#sobre-a-plataforma-deeplake-health"    
@@ -42,7 +42,7 @@ products:
 
 # sidebar menu links
 posts:
-  - title: Veja os posts
+  - title: "Veja os posts"
     children:
       - title: "Por ano"
         url: "/year-archive/"
@@ -50,7 +50,7 @@ posts:
         url: "/categories/"
       - title: "Por tags"
         url: "/tags/"
-  - title: Tópicos
+  - title: "Tópicos"
     children:
       - title: "Artigos"
         url: "/categories/#data-science"
