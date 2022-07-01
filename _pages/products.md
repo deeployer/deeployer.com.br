@@ -9,7 +9,7 @@ sidebar:
   nav: "products"
 ---
 
-<img src="https://deeployer.com.br/assets/images/deeployer-logo-deeplake.png" style="width: 300px" />
+<img src="https://deeployer.com.br/assets/images/deeployer-logo-deeplake.png" style="width: 400px" />
 
 ## Sobre a Plataforma DeepLake: Health
 
