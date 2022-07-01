@@ -33,7 +33,11 @@ about:
 products:
   - title: Sobre o DeepLake
     children:
-    - title: "DeepLake: Health"
+    - title: "Sobre a Plataforma DeepLake"
+      url: "https://deeployer.com.br/products/#sobre-a-plataforma-deeplake"    
+    - title: "DeepLake: Health (DATASUS)"
+      url: "https://deeployer.com.br/products/#deeplake-health"
+    - title: "DeepLake: Health (ANS)"
       url: "https://deeployer.com.br/products/#deeplake-health"
 
 # sidebar menu links
