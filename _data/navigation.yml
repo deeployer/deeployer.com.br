@@ -31,7 +31,7 @@ about:
         url: "https://deeployer.com.br/privacy-policy/"
 
 products:
-  - title: Nossos produtos
+  - title: Sobre o DeepLake
     children:
     - title: "DeepLake: Health"
       url: "https://deeployer.com.br/products/#deeplake-health"
