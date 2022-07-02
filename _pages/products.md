@@ -19,6 +19,8 @@ As informações são disponibilizadas em dashboards do Microsoft Power BI Porta
 <br /><br />
 Para saber mais sobre este produto ou para solicitar uma demonstração, por favor, entre em contato conosco através do e-mail <a href="mailto:contato@deeployer.com?subject=Solicitação de demonstração do DeepLake: Health&body=Olá, gostaria de solicitar uma demonstração do DeepLake: Health.">contato@deeployer.com</a>.
 
+<img src="https://deeployer.com.br/assets/images/post-datalake-process.png" />
+
 ## DeepLake: Health (DATASUS)
 
 Os dados públicos disponibilizados pelo DATASUS fornecem uma grande gama de usos que atendem a inúmeras necessidades de negócios na área da Saúde.
