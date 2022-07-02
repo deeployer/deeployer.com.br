@@ -33,8 +33,20 @@ Algumas possibilidades de aplicação dos dados do DATASUS incluem:
 - Segmentações de instituições públicas;
 - Estudos de _Burden of Illness_;
 - _Patient finder_;
-- Dentre outras.
+- Dentre outras aplicações.
+
+Para saber mais sobre os dados do DATASUS disponíveis na **Plataforma DeepLake: Health** ou para solicitar uma demonstração, por favor, entre em contato conosco através do e-mail <a href="mailto:contato@deeployer.com?subject=Solicitação de demonstração do DeepLake: Health&body=Olá, gostaria de solicitar uma demonstração do DeepLake: Health.">contato@deeployer.com</a>.
 
 ## DeepLake: Health (ANS)
 
-A Agência Nacional de Saúde Suplementar (ANS), to-do.
+A Agência Nacional de Saúde Suplementar (ANS) disponibiliza dados públicos de:
+
+- Operadoras;
+- Beneficiários;
+- Protocolos;
+- Procedimentos Ambulatóriais por UF;
+- Procedimentos Hospitalares por UF;
+- Características dos Produtos da Saúde Suplementar;
+- Dentre outros dados.
+
+Para saber mais sobre os dados da ANS disponíveis na **Plataforma DeepLake: Health** ou para solicitar uma demonstração, por favor, entre em contato conosco através do e-mail <a href="mailto:contato@deeployer.com?subject=Solicitação de demonstração do DeepLake: Health&body=Olá, gostaria de solicitar uma demonstração do DeepLake: Health.">contato@deeployer.com</a>.
