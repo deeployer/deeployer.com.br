@@ -1,5 +1,5 @@
 ---
-title: "Serviços"
+title: "Nosso time"
 layout: collection
 permalink: /whois/
 collection: whois
