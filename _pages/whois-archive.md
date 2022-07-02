@@ -5,7 +5,7 @@ permalink: /whois/
 collection: whois
 author_profile: true
 header:
-  image: "/assets/images/deeployer-header-slim.png"
+  image: "/assets/images/deeployer-website-headers-team.png"
 entries_layout: grid
 classes: wide
 ---
