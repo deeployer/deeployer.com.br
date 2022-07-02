@@ -30,6 +30,7 @@ about:
       - title: "política de privacidade"
         url: "https://deeployer.com.br/privacy-policy/"
 
+# sidebar menu products
 products:
   - title: "DeepLake: Health"
     children:
