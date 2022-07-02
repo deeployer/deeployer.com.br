@@ -1,4 +1,4 @@
-# main links links
+# main links
 main:
   - title: "home"
     url: https://deeployer.com.br/
@@ -15,7 +15,7 @@ main:
   - title: 🇺🇸
     url: https://deeployer.com
 
-# sidebar menu links
+# sidebar about links
 about:
   - title: "O que tem aqui?"
     children:
@@ -30,7 +30,7 @@ about:
       - title: "política de privacidade"
         url: "https://deeployer.com.br/privacy-policy/"
 
-# sidebar menu products
+# sidebar products links
 products:
   - title: "DeepLake: Health"
     children:
@@ -43,7 +43,7 @@ products:
       - title: "Acesso a Plataforma DeepLake: Health"
         url: "https://deeployer.com.br/deeplake-health/"
 
-# sidebar menu links
+# sidebar posts links
 posts:
   - title: "Veja os posts"
     children:
