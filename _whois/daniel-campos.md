@@ -2,6 +2,8 @@
 layout: splash
 author_profile: false
 permalink: /daniel-campos/
+header:
+  teaser: "/assets/images/danielcampos-avatar.png"
 ---
 
 <style>

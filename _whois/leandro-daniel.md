@@ -2,6 +2,8 @@
 layout: splash
 author_profile: false
 permalink: /leandro-daniel/
+header:
+  teaser: "/assets/images/leandrodaniel-avatar.png"
 ---
 
 <style>
