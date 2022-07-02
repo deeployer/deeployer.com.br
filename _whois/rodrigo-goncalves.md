@@ -3,7 +3,7 @@ layout: splash
 author_profile: false
 permalink: /rodrigo-goncalves/
 header:
-  teaser: "/assets/images/rodrigogoncalves-avatar.png"
+  teaser: "/assets/images/rodrigogoncalves-avatar-teaser.png"
 ---
 
 <style>
