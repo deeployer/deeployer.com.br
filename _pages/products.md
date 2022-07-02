@@ -17,9 +17,9 @@ A **Plataforma DeepLake: Health** foi desenvolvida para coletar, organizar e enr
 <br /><br />
 As informações são disponibilizadas em dashboards do Microsoft Power BI Portal ou em extrações personalizadas.
 <br /><br />
-Para saber mais sobre este produto ou para solicitar uma demonstração, por favor, entre em contato conosco através do e-mail <a href="mailto:contato@deeployer.com?subject=Solicitação de demonstração do DeepLake: Health&body=Olá, gostaria de solicitar uma demonstração do DeepLake: Health.">contato@deeployer.com</a>.
-
 <img src="https://deeployer.com.br/assets/images/post-datalake-process.png" />
+<br /><br />
+Para saber mais sobre este produto ou para solicitar uma demonstração, por favor, entre em contato conosco através do e-mail <a href="mailto:contato@deeployer.com?subject=Solicitação de demonstração do DeepLake: Health&body=Olá, gostaria de solicitar uma demonstração do DeepLake: Health.">contato@deeployer.com</a>.
 
 ## DeepLake: Health (DATASUS)
 
