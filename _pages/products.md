@@ -13,14 +13,26 @@ sidebar:
 
 ## Sobre a Plataforma DeepLake: Health
 
-A **Plataforma DeepLake: Health** é disponibilizada para consulta em dashboards do Microsoft Power BI Portal. 
+A **Plataforma DeepLake: Health** foi desenvolvida para coletar, organizar e enriquecer dados públicos de Saúde que podem servir para análises, tomadas de decisão e estratégias de negócio relacionadas ao ecossistema da Saúde no Brasil. 
+<br /><br />
+As informações são disponibilizadas em dashboards do Microsoft Power BI Portal ou em extrações personalizadas.
 <br /><br />
 Para saber mais sobre este produto ou para solicitar uma demonstração, por favor, entre em contato conosco através do e-mail <a href="mailto:contato@deeployer.com?subject=Solicitação de demonstração do DeepLake: Health&body=Olá, gostaria de solicitar uma demonstração do DeepLake: Health.">contato@deeployer.com</a>.
 
 ## DeepLake: Health (DATASUS)
 
-To-do
+Os dados públicos disponibilizados pelo DATASUS fornecem uma grande gama de usos que atendem a inúmeras necessidades de negócios na área da Saúde.
+<br /><br />
+Algumas possibilidades de aplicação dos dados do DATASUS incluem:
+
+- Estudos observacionais retrospectivos;
+- Modelos preditivos;
+- Inputs para modelos de HEOR;
+- Segmentações de instituições públicas;
+- Estudos de _Burden of Illness_;
+- _Patient finder_;
+- Dentre outras.
 
 ## DeepLake: Health (ANS)
 
-To-do
+A Agência Nacional de Saúde Suplementar (ANS), to-do.
