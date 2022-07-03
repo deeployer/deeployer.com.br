@@ -43,6 +43,17 @@ products:
       - title: "Acesso a Plataforma DeepLake: Health"
         url: "https://deeployer.com.br/deeplake-health/"
 
+# sidebar services links
+services:
+  - title: "Tópicos"
+    children:
+      - title: "Governança e Arquitetura"
+        url: "https://deeployer.com.br/services/data-governance-and-architecture/"
+      - title: "Databricks Engineering"
+        url: "https://deeployer.com.br/services/databricks-engineering/"
+      - title: "Visualizações no Power BI"
+        url: "https://deeployer.com.br/services/power-bi-visualizations/"
+
 # sidebar posts links
 posts:
   - title: "Veja os posts"
