@@ -1,5 +1,5 @@
 ---
-title: "Serviços"
+title: "Conheça nossos serviços"
 layout: collection
 permalink: /services/
 collection: services
