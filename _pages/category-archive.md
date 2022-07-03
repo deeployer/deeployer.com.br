@@ -2,7 +2,7 @@
 title: "Posts por Categoria"
 layout: categories
 permalink: /categories/
-author_profile: true
+author_profile: false
 sidebar:
   nav: "posts"
 ---
