@@ -4,7 +4,7 @@ permalink: /year-archive/
 layout: posts
 header:
   image: "/assets/images/deeployer-website-headers-blog.png"
-author_profile: true
+author_profile: false
 sidebar:
   nav: "posts"
 ---
