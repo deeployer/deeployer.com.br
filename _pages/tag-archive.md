@@ -2,7 +2,7 @@
 title: "Posts por Tag"
 permalink: /tags/
 layout: tags
-author_profile: true
+author_profile: false
 sidebar:
   nav: "posts"
 ---
