@@ -7,7 +7,6 @@ author_profile: false
 header:
   image: "/assets/images/deeployer-website-headers-portfolio.png"
 entries_layout: grid
-classes: wide
 sidebar:
   nav: "services"
 ---
