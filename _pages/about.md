@@ -7,6 +7,7 @@ header:
 permalink: /about/
 sidebar:
   nav: "about"
+classes: wide
 ---
 # nossa visão
 
