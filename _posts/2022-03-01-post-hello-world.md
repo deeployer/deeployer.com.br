@@ -9,6 +9,7 @@ categories:
 tags: 
   - info
   - pt-br
+classes: wide
 ---
 
 Olá, Mundo! Nós somos a Deeployer e estamos ansiosos para entregar coisas bem legais para você!
