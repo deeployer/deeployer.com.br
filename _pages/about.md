@@ -14,7 +14,7 @@ Aumentar o potencial humano através de dados, visando uma sociedade justa e igu
 
 # nossos valores
 
-Entusiasmo, Respeito, Integridade and Profissionalismo.
+Entusiasmo, Respeito, Integridade e Profissionalismo.
 
 # nossa missão
 
