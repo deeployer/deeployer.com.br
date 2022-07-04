@@ -9,6 +9,7 @@ header:
 entries_layout: grid
 sidebar:
   nav: "services"
+classes: wide
 ---
 
 Veja abaixo alguns dos serviços que já realizamos em nossos clientes.
