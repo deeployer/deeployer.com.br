@@ -9,6 +9,7 @@ categories:
 tags: 
   - data science 101
   - pt-br
+classes: wide
 ---
 
 Você que está acompanhando este blog sabe que, até aqui, falamos sobre [o que é Data Science](https://deeployer.com.br/data%20science/post-o-que-e-data-science/) e apresentamos alguns dos [desafios das fontes de dados](https://deeployer.com.br/data%20science/post-os-desafios-das-fontes-de-dados/). Caso não tenha lido os posts anteriores, recomendo que invista ao menos 4 minutos para leitura do segundo, pois será bem proveitosa para o assunto deste post.😄
