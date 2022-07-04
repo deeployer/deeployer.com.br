@@ -7,6 +7,7 @@ header:
 permalink: /products/
 sidebar:
   nav: "products"
+classes: wide
 ---
 
 <img src="https://deeployer.com.br/assets/images/deeployer-logo-deeplake.png" style="width: 400px" />
